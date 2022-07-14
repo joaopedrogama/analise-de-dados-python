@@ -11,7 +11,7 @@ Este é um projeto com algumas análises que fiz de um relatório de um e-commer
 * [Anaconda] - Ferramenta utilizada para a criação de ambientes para o desenvolvimento deste projeto
 * [Jupyter] - Ferramente utilizada para o desenvolvimento dos notebooks
 
-## 🛠️ Construído com
+## 📊 Indicadores
 ### Alguns indicadores levantados na análise dos dados
 
 * Quantidade de vendas por país
