@@ -1,4 +1,4 @@
-# desafio-manfing
+# Análise de dados - Desafio Manfing
 
 Este é um projeto com algumas análises que fiz de um relatório de um e-commerce, onde apresenta dados de vendas do final do ano de 2010 até o final de 2011.
 
